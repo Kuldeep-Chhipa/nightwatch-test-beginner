@@ -1,0 +1,28 @@
+{
+  "author": "Kuldeep Chhipa",
+  "license": "ISC",
+  "name": "Nightwatch-Test-Beginner",
+  "version": "1.0.0",
+  "description": "It includes the basic startup kit for Nightwatch.js beginers",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "assert": "^1.3.0",
+    "chai": "^3.2.0",
+    "chance": "^0.7.6",
+    "cheerio": "0.22.0",
+    "debug": "~2.2.0",
+    "fs": "0.0.2",
+    "googleapis": "^17.1.0",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mocha": "^2.2.5",
+    "nightwatch": "^0.9.21",
+    "nightwatch-html-reporter": "^2.0.6",
+    "request": "^2.67.0",
+    "supertest": "^1.0.1",
+    "underscore": "1.8.3",
+    "url": "^0.11.0"
+  }
+}
