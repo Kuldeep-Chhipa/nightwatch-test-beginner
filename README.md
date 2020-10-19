@@ -50,4 +50,11 @@ sub-directories for the given environment server.
 3. Example command: `node nightwatch.js --test test\testgoogle.js`.
 
 
+### Run individual file**
+
+1. Run the command `node nightwatch filePath.js` it will execute all the test cases present in the file.
+
+2. Example command: `node nightwatch test\testgoogle.js`.
+
+
 > note: User can remove unwanted package from the package.json because we use some additional package for things gets more easier.
