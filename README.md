@@ -48,3 +48,6 @@ Use the following command: `node nightwatch.js --reporter html-reporter.js`
 sub-directories for the given environment server.
 
 3. Example command: `node nightwatch.js --test test\testgoogle.js`.
+
+
+> note: User can remove unwanted package from the package.json because we use some additional package for things gets more easier.
