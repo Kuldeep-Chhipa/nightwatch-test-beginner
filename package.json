@@ -2,7 +2,7 @@
   "author": "Kuldeep Chhipa",
   "license": "ISC",
   "name": "Nightwatch-Test-Beginner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It includes the basic startup kit for Nightwatch.js beginers",
   "directories": {
     "test": "test"
