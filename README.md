@@ -61,7 +61,7 @@ The Test Case can also be run in parallel, as the test files will be triggered a
 
 The more details on parallel run can be found [here](https://nightwatchjs.org/guide/running-tests).
 
-### Configure Headless Mode:
+#### Configure Headless Mode:
 Search for `--headless-none` in `nightwatch.json` and replace it by `headless` like below code:
 ````
 "chromeOptions": {
