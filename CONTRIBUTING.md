@@ -1,6 +1,6 @@
 # Contributing
 
-Pkce is [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted.
+Nightwatch-Test-Beginner is [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted.
 
 ## Getting Started
 
