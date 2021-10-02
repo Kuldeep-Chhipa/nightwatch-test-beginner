@@ -34,5 +34,5 @@ Thanks for your contributions!
 
 - Structured Code
 - More genric test cases
-- automation cases for beginer 
+- automation cases for beginer
 
