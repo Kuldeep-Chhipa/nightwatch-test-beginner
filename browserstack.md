@@ -5,8 +5,10 @@ Let’s start integrating:
 Go to browserstack(it has a free trial)
 Get the access codes(user name and access key). Its available here
 Create a new file called nightwatch.browserstack.js and add the below content. This information is available in browserstack documentation.
-//nightwatch.browserstack.js
-nightwatch_config = {
+
+> nightwatch.browserstack.js
+```
+ nightwatch_config = {
   'src_folders': ['tests'],
   'page_objects_path': ['page-objects'],
     webdriver : {
@@ -35,8 +37,9 @@ nightwatch_config = {
   }
   
   module.exports = nightwatch_config;
-    
+   ``` 
 
-In package.json add below under script tag:
-"test:browserstack": "Nightwatch -c   nightwatch.browserstack.conf.js"
-Run the script using npm run test:browserstack
+### In package.json add below under script tag:
+>**test:browserstack**: `Nightwatch -c   nightwatch.browserstack.conf.js`
+
+> Run the script using `npm run test:browserstack`
