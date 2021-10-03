@@ -41,4 +41,4 @@ Create a new file called nightwatch.browserstack.js and add the below content. T
 ### In package.json add below under script tag:
 >**test:browserstack**: `Nightwatch -c   nightwatch.browserstack.conf.js`
 
-> Run the script using `npm run test:browserstack`
+> **Run the script using** `npm run test:browserstack`
