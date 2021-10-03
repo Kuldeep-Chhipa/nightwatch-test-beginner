@@ -37,8 +37,7 @@ Create a new file called nightwatch.browserstack.js and add the below content. T
   }
   
   module.exports = nightwatch_config;
-   ``` 
-
+```    
 ### In package.json add below under script tag:
 >**test:browserstack**: `Nightwatch -c   nightwatch.browserstack.conf.js`
 
