@@ -21,7 +21,7 @@
     "nightwatch": "^0.9.21",
     "nightwatch-html-reporter": "^2.0.6",
     "request": "^2.67.0",
-    "supertest": "^1.0.1",
+    "supertest": "^6.3.3",
     "underscore": "1.12.1",
     "url": "^0.11.0"
   }
